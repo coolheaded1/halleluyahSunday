@@ -1,0 +1,43 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+#container {
+	padding: 10px;
+}
+
+#h1{
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 0 0 20px green;
+	font-family: Magneto;
+	color: white;
+}
+
+#h2{
+	position: absolute;
+	bottom: 0px;
+	right: 20px;
+}
+
+#img{
+	position: absolute;
+	top: 30px;
+}
+
+#fafa2{
+	font-size: 25px;
+	padding-left: 20px;
+	color: #fff;
+}
+
+footer{
+	background: rgb(13,32,49);
+	color: #fff;
+	padding: 40px;
+	text-align: center;
+}
